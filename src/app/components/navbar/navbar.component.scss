@@ -1,0 +1,26 @@
+.navbar{
+    background-color: aqua;
+
+}
+
+.navbar-brand{
+    color: brown;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.navbar-nav{
+    display: flex;
+    list-style: none;
+    margin: 0%;
+    padding: 0%;
+}
+
+.nav-item{
+    margin-right: 10px;
+}
+
+.nav-link{
+    color: rgb(219, 11, 4);
+    text-decoration: none;
+}
